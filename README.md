@@ -56,7 +56,7 @@ Dossier *Enregistrements_via_telephone*
   * Locuteurs Natifs
   * Presence de bruit: Oui
   * Un corpus pour l'enregistrement avait ete mis sur pieds mais aucun enregistrement ne suis encore ce format
-    Il s'agit d'un fichier pdf qui contient des dialogues de :
+    Il s'agit d'un fichier pdf (Corpus_collecte_par_theme.pdf) qui contient des dialogues de :
     * 6 themes
        * Santé
        * Environnement
