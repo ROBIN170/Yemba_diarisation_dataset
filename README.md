@@ -56,6 +56,16 @@ Dossier *Enregistrements_via_telephone*
   * Locuteurs Natifs
   * Presence de bruit: Oui
   * Un corpus pour l'enregistrement avait ete mis sur pieds mais aucun enregistrement ne suis encore ce format
+    Il s'agit d'un fichier pdf qui contient des dialogues de :
+    * 6 themes
+       * Santé
+       * Environnement
+       * Ville
+       * Village
+       * Éducation
+       * Travail
+    * 2 locuteurs par theme
+       * qui peuvent etre interpretes par des femmes ou des hommes
   * Pas encore de convention de nommage pour cette partie
 
 
